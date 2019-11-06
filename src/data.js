@@ -1,17 +1,17 @@
 const todos = [
   {
     id: 1,
-    text: 'Do a very important task',
+    text: 'DRINK WATER',
     completion: false
   },
   {
     id: 2,
-    text: 'Team meeting at 11 am',
+    text: 'Team meeting at 12',
     completion: false
   },
   {
     id: 3,
-    text: 'Learn React JS',
+    text: 'WORKOUT',
     completion: false
   }
 ];
